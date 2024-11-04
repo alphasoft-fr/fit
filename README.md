@@ -10,10 +10,9 @@
 
 ## Installation
 
-1. Clone the repository.
-2. Build the executable:
    ```bash
-   go build -o fit
+    sudo wget -O /usr/local/bin/fit https://github.com/alphasoft-fr/fit/raw/refs/heads/main/fit-linux
+    sudo chmod +x /usr/local/bin/fit
    ```
 
 ## Usage
